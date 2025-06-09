@@ -1,6 +1,6 @@
 {
-    "name": "atividade_pratica_coin_master",
-    "short_name": "atividade_pratica_coin_master",
+    "name": "api_market_cap_coin",
+    "short_name": "api_market_cap_coin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
